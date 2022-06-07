@@ -3,21 +3,17 @@
 #### 介绍
 Real-ESRGAN的图形界面
 
-#### 软件架构
-软件架构说明
-
-
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  下载最新的发行版;
+2.  双击运行。
 
-#### 使用说明
+#### 使用说明(必看!!!)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  暂不提供Real-ESRGAN本体下载,如果需要,可以前往  **[Github](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/releases)**  下载
+2.  把本程序放在 **Real-ESRGAN的目录下** 即可
+3.  所有路径 **均不可包含中文!!!** 包括:程序路径,图片路径(PS.以后可能会优化...大概?)
+4.  有其他问题可以提交 **issues** 
 
 #### 参与贡献
 
@@ -25,13 +21,3 @@ Real-ESRGAN的图形界面
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)

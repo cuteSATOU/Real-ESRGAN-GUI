@@ -72,7 +72,7 @@ namespace RealESRGAN_for_Windows
                             updateOkResult = MessageBox.Show("检测到新版本,请立即更新!(不包括Real-ESRGAN)" + "\r\n" + "更新日志：" + "\r\n" + Form1.newVersionInfo, "检测更新", MessageBoxButtons.OK);
                             if (updateOkResult == DialogResult.OK)
                             {
-                                Process.Start(newDownload);
+                                Process.Start(exeDownloadLink);
                             }
                         }
                         else

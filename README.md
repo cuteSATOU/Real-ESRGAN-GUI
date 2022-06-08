@@ -1,7 +1,21 @@
+<!--
+ * @Descripttion: 
+ * @Author: 砂糖酱
+ * @Email: 2222002781@qq.com
+ * @QQ: 2222002781
+ * @Bilibili: https://space.bilibili.com/11997556
+-->
 # Real-ESRGAN GUI
 
 #### 介绍
-Real-ESRGAN的图形界面
+使用C#开发的Real-ESRGAN的图形界面
+
+#### 特性
+1.  可以选择单个图片或者整个文件夹;
+2.  可以自定义各种参数;
+3.  (完善中)支持视频修复;
+4.  (TODO)支持一键下载Real-ESRGAN本体;
+5.  (TODO)支持一键更新程序。
 
 #### 安装教程
 
